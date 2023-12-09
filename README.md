@@ -26,14 +26,14 @@ cd ScriptMiner
 2. Run the script:
 
 ```bash
-python multi-page.ipynb.py
+python scraper.py
 ```
 
 The script will fetch movie transcript links from the main page and save individual transcripts to text files.
 
 ## File Structure
 
-- `multi-page.ipynb.py`: The main Python script for scraping movie transcripts.
+- `scraper.py`: The main Python script for scraping movie transcripts.
 - `requirements.txt`: List of Python dependencies.
 - `README.md`: Documentation for the project.
 

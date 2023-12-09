@@ -1,4 +1,3 @@
-```markdown
 # Movie Transcript Scraper
 
 This Python script is designed to scrape movie transcripts from [subslikescript.com](https://subslikescript.com). It extracts links to movie scripts from the main page and saves individual scripts to text files.

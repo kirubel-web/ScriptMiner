@@ -1,7 +1,6 @@
 # Movie Transcript Scraper
-![Thumbnail](.images//Movie_Transcript_Scrap.png.png)
-![Thumbnail](https://github.com/kirubel-web/ScriptMiner/main/Movie_Transcript_Scrap.png?raw=true)
-![website](https://github.com/kirubel-web/ScriptM                                   iner/main/website.png?raw=true)
+![Thumbnail](.images/Movie_Transcript_Scrap.png)
+![Thumbnail](.images/website.png.png)
 
 This Python script is designed to scrape movie transcripts from [subslikescript.com](https://subslikescript.com). It extracts links to movie scripts from the main page and saves individual scripts to text files.
 

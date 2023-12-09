@@ -1,5 +1,3 @@
-Certainly! Here's a consolidated README file for your Movie Transcript Scraper project. You can save this content in a file named `README.md` in the root of your project directory.
-
 ```markdown
 # Movie Transcript Scraper
 
